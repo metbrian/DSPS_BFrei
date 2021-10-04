@@ -1,4 +1,4 @@
-(Unofficial) Submission folder for HW4
+Folder for HW4
 Collaborators: Brian Frei and Miguel Pedrazo
 
 Duties: 
